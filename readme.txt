@@ -26,18 +26,18 @@ The Jobify theme has been confirmed and tested to work correctly with this plugi
 
 = Documentation =
 
-Documentation will be maintained on the [GitHub Wiki here](http://github.com/tripflex/wp-job-manager-reg-use-email/wiki).
+Documentation will be maintained on the [GitHub Wiki here](http://github.com/tripflex/wp-job-manager-registration-use-email/wiki).
 
 = Contributing and reporting bugs =
 
-You can contribute code and localizations to this plugin via GitHub: [http://github.com/tripflex/wp-job-manager-reg-use-email](http://github.com/tripflex/wp-job-manager-reg-use-email)
+You can contribute code and localizations to this plugin via GitHub: [http://github.com/tripflex/wp-job-manager-registration-use-email](http://github.com/tripflex/wp-job-manager-registration-use-email)
 
 = Original Sources =
 * [Job Colors for WP Job Manager Types by Astoundify](https://github.com/Astoundify/wp-job-manager-colors)
 
 = Support =
 
-If you spot a bug, you can of course log it on [Github](http://github.com/tripflex/wp-job-manager-reg-use-email/issues)
+If you spot a bug, you can of course log it on [Github](http://github.com/tripflex/wp-job-manager-registration-use-email/issues)
 
 Or contact me at myles@smyl.es
 
