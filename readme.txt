@@ -1,10 +1,10 @@
 === WP Job Manager Registration Use Email ===
-Contributors: tripflex
+Contributors: tripflex, fris
 Donate link: http://gittip.com/tripflex
 Tags: registration, email, user, jobify, job manager
 Requires at least: 3.8
 Tested up to: 3.9
-Stable tag: 1.0
+Stable tag: 1.1.0
 
 Use email address as username when a new user registers with WP Job Manager. Compatible with Jobify.
 
@@ -14,9 +14,12 @@ This plugin will use the email address as the username whenever someone register
 
 The Jobify theme has been confirmed and tested to work correctly with this plugin.
 
+* note: * using email as username is disabled by default, you must enable it under the WP Job Manager settings page.  There is a link to the page when you activate this plugin.
+
 = Features =
 * Use email as username
 * Set display_name and nickname as username that was going to be used
+* Replace "Username" with "Username or Email" on login forms
 
 = Requires =
 * [WP Job Manager by Mike Jolley](http://mikejolley.com/projects/wp-job-manager/)
@@ -26,18 +29,15 @@ The Jobify theme has been confirmed and tested to work correctly with this plugi
 
 = Documentation =
 
-Documentation will be maintained on the [GitHub Wiki here](http://github.com/tripflex/wp-job-manager-registration-use-email/wiki).
+Documentation will be maintained on the [GitHub Wiki here](http://github.com/tripflex/wp-job-manager-reg-use-email/wiki).
 
 = Contributing and reporting bugs =
 
-You can contribute code and localizations to this plugin via GitHub: [http://github.com/tripflex/wp-job-manager-registration-use-email](http://github.com/tripflex/wp-job-manager-registration-use-email)
-
-= Original Sources =
-* [Job Colors for WP Job Manager Types by Astoundify](https://github.com/Astoundify/wp-job-manager-colors)
+You can contribute code and localizations to this plugin via GitHub: [http://github.com/tripflex/wp-job-manager-reg-use-email](http://github.com/tripflex/wp-job-manager-reg-use-email)
 
 = Support =
 
-If you spot a bug, you can of course log it on [Github](http://github.com/tripflex/wp-job-manager-registration-use-email/issues)
+If you spot a bug, you can of course log it on [Github](http://github.com/tripflex/wp-job-manager-reg-use-email/issues)
 
 Or contact me at myles@smyl.es
 
@@ -59,5 +59,13 @@ Extract the zip file and just drop the contents in the wp-content/plugins/ direc
 == Frequently Asked Questions ==
 
 == Changelog ==
-**1.0 (April 19, 2014)**
+
+= 1.1.0 =
+* April 19, 2014
+New Feature: Change "Username" to "Username or Email" on login forms
+Update to semantic versioning
+Added GitHub and Translation links to plugin page
+
+= 1.0 =
+* April 19, 2014
 First Release
